@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @colegemuth
 - 👀 I’m interested in Python, Data Analysis, and Database Administration.
-- 🌱 I’m currently learning as much as I can, but mainly Database Admin
+- 🌱 I’m currently learning as much as I can, but mainly Database Administration because that is my current employment.
 - 📫 How to reach me colewohlge73@gmail.com
 
 <!---
